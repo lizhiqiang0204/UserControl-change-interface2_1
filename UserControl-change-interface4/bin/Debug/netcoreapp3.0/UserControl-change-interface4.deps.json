@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "UserControl-change-interface4/1.0.0": {
+        "runtime": {
+          "UserControl-change-interface4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserControl-change-interface4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
